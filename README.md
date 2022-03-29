@@ -6,9 +6,6 @@ This code will fly the drone around the PBR to map it. It then goes to a locatio
 
 ## Demonstration
 
-
-### GIF
-
 ### Video on Google Drive
 https://drive.google.com/file/d/1YvSa8WmvAL8pezwC0ckc7Gze7HUeCFA_/view?usp=sharing
 
